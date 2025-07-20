@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 Me chamo Lucas Duarte de Souza Pereira!</h1>
 
 <p align="center">
-  <em>Desenvolvedor Full-Stack | Graduando de Sistemas de Informação</em>
+  <em>Desenvolvedor Full Stack | Graduando de Sistemas de Informação</em>
 </p>
 
 ---
@@ -11,7 +11,7 @@
   <p align="left">
     Sou um profissional apaixonado por tecnologia, atualmente cursando <strong>Sistemas de Informação</strong> na <strong>Faculdade Descomplica</strong>. Desde que iniciei minha jornada na programação em <strong>2023</strong>, estou imerso no mundo do desenvolvimento web.
     <br><br>
-    Minha experiência abrange o desenvolvimento <strong>Full-Stack</strong>, com habilidades sólidas tanto no back-end (utilizando <strong>Java</strong> e <strong>Spring Boot</strong>) quanto no front-end (com <strong>Angular</strong> e <strong>Flutter</strong>) além de muitas outras tecnologias. Além disso, tenho vivência com metodologias ágeis, participando ativamente do ciclo de desenvolvimento em quipe.
+    Minha experiência abrange o desenvolvimento <strong>Full Stack</strong>, com habilidades sólidas tanto no back-end (utilizando <strong>Java</strong> e <strong>Spring Boot</strong>) quanto no front-end (com <strong>Angular</strong> e <strong>Flutter</strong>) além de muitas outras tecnologias. Além disso, tenho vivência com metodologias ágeis, participando ativamente do ciclo de desenvolvimento em quipe.
   </p>
   
 ---
