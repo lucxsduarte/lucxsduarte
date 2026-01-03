@@ -28,11 +28,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucxsduarte&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucxsduarte&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
-
 <div align="center">
   <a href="https://github.com/lucxsduarte">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucxsduarte&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&hide_border=true" alt="Gráfico de Atividade"/>
